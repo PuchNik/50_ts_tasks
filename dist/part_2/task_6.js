@@ -1,3 +1,4 @@
+"use strict";
 // // const age: number = 12
 // // const age: number = 18
 // const age: number = 21

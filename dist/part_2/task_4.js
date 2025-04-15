@@ -1,3 +1,4 @@
+"use strict";
 // function sayHello(name: string = 'someone'): string {
 //     return `Hello, ${name}`
 // }
